@@ -6,7 +6,7 @@ import connection from '../helpers/data/connections';
 
 import Auth from '../components/Auth/Auth';
 import Blogs from '../components/Blogs/Blogs';
-import MyNavbar from '../components/Navbar/Navbar';
+import MyNavbar from '../components/MyNavbar/MyNavbar';
 import './App.scss';
 import authRequests from '../helpers/data/authRequests';
 
